@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robso\\Desktop\\Bot\\Bot\\Bot.csproj": {}
+    "C:\\Users\\robso\\Desktop\\Test\\bot-iniciante\\Bot\\Bot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robso\\Desktop\\Bot\\Bot\\Bot.csproj": {
+    "C:\\Users\\robso\\Desktop\\Test\\bot-iniciante\\Bot\\Bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robso\\Desktop\\Bot\\Bot\\Bot.csproj",
+        "projectUniqueName": "C:\\Users\\robso\\Desktop\\Test\\bot-iniciante\\Bot\\Bot.csproj",
         "projectName": "Bot",
-        "projectPath": "C:\\Users\\robso\\Desktop\\Bot\\Bot\\Bot.csproj",
+        "projectPath": "C:\\Users\\robso\\Desktop\\Test\\bot-iniciante\\Bot\\Bot.csproj",
         "packagesPath": "C:\\Users\\robso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robso\\Desktop\\Bot\\Bot\\obj\\",
+        "outputPath": "C:\\Users\\robso\\Desktop\\Test\\bot-iniciante\\Bot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\robso\\AppData\\Roaming\\NuGet\\NuGet.Config",
