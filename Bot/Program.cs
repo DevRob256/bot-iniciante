@@ -2,6 +2,7 @@
 using Telegram.Bot;
 using System.Threading;
 using System.Threading.Tasks;
+using Telegram.Bot.Types.Enums;
 
 namespace Bot
 {
@@ -26,12 +27,11 @@ namespace Bot
             if(e.Message.Text.ToUpper()=="OI")
             {
                 botClient.SendTextMessageAsync(
-                    e.Message.Chat.Id,
-                    $"Olá {e.Message.From.FirstName}, tudo bem! Seu ID é {e.Message.From.Id} "
+                    chatId: e.Message.Chat.Id,
+                    text: $"<a href =\"http://www.google.com.br\">Clique aqui</a>",
+                    parseMode: ParseMode.Html
                     );
-
             }
-
 
         }
     }
